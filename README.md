@@ -1,2 +1,2 @@
 # gene-expression-feature-selection
-Comparative study of feature selection methods (MI, RFE, LASSO) for gene expression classification using SVM and Random Forest, with SHAP explainability.
+This project compares three feature selection methods (Mutual Information, RFE, and Lasso) on the SMK_CAN_187 dataset, evaluating SVM and Random Forest classifiers using accuracy, F1 score, and SHAP for interpretability.
