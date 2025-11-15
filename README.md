@@ -53,31 +53,6 @@ Finally, SHAP analysis is used to interpret which genes/features contribute most
 ![SHAP](https://img.shields.io/badge/Explainability-SHAP-orange)
 
 ---
----
-
-## Repository Folder Structure
-
-Feature_Selection_Project_2025/
-│
-├── notebooks/ # Colab notebook for experimentation
-│ └── feature_selection.ipynb
-├── src/ # Python scripts for modular code
-│ ├── config.py
-│ ├── load_data.py
-│ ├── feature_selection_mi.py
-│ ├── feature_selection_rfe.py
-│ ├── feature_selection_lasso.py
-│ ├── train_models.py
-│ └── shap_analysis.py
-├── data/ # Dataset or download instructions
-│ └── README.md
-├── results/ # Metrics and SHAP plots
-│ ├── metrics.csv
-│ └── shap_plots/
-│ ├── svm_shap.png
-│ └── rf_shap.png
-├── requirements.txt # Python dependencies
-└── README.md
 
 ---
 
@@ -133,8 +108,8 @@ pip install -r requirements.txt
 
 ## 🚀 How to Run the Project
 
-# Option 1 — Run the Notebook
-# Option 2 — Run Python Scripts
+Option 1 — Run the Notebook
+Option 2 — Run Python Scripts
 ---
 
 ## 🧩 Workflow Diagram
