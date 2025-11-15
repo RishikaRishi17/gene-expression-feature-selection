@@ -131,9 +131,10 @@ Install dependencies
 
 pip install -r requirements.txt
 
-🚀 How to Run the Project
-Option 1 — Run the Notebook
-Option 2 — Run Python Scripts
+## 🚀 How to Run the Project
+
+# Option 1 — Run the Notebook
+# Option 2 — Run Python Scripts
 ---
 
 ## 🧩 Workflow Diagram
